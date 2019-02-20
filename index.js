@@ -6,4 +6,4 @@ function happyHolidays(){
 
 function happyHolidayTo(holiday, name) {
   return '${Happy Independence day}, ${krunal}!`
-}
+};
